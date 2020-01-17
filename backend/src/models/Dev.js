@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const PointSchema = require('./utils/PointSchema');
 
-const DevScheema = new mongoose.Schema({
+const DevSchema = new mongoose.Schema({
     name: String,
     github_username: String,
     bio: String,
@@ -13,4 +13,4 @@ const DevScheema = new mongoose.Schema({
     }
 });
 
-module.exports = mongoose.model('Dev', DevScheema);
+module.exports = mongoose.model('Dev', DevSchema);
