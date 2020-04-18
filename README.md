@@ -1,14 +1,15 @@
-# OmniStack 10.0
-Application for visualizing surrounding developers using geolocation
+<h2 align="center">
+  OmniStack 10.0 - Visualize surrounding developers using geolocation :earth_americas:
+</h2>
 
-## Technologies
+## :rocket: Technologies
 Fullstack development (backend and frontend)
 - NodeJS
 - React
 - Mongo DB
 
-## Developers
-1. Gabriel Guarido
-
-## Release Date
+## :date: Release Date
 Jan 16 2020
+
+## :memo: License
+This project is under MIT license. Check the file [LICENSE](LICENSE) for more information.
